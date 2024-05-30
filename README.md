@@ -8,11 +8,15 @@ https://www.figma.com/design/YPt3wua48wBDqCSixD5nyd/PowerpuffGirls?node-id=0-1&t
 
 ## Problem Statement
 
-In India, financial literacy rates sharply differ from those in developed countries like the USA, UK, and Singapore. Shockingly, only 27% of Indian adults are financially literate, dropping to 16.7% among Indian students in their understanding of finance and money management.
-
-This lack of financial literacy often leads to significant challenges, such as accumulating debt, inadequate savings, and poor investment choices.
-
-To address this pressing issue, there is a need to develop comprehensive educational solutions that enhance financial literacy and enable individuals to take control of their financial well-being.
+ - The financial technology (FinTech) industry is reshaping financial services with innovations such as mobile banking, digital payments, automated wealth management, and blockchain technology. 
+ - Despite its rapid growth, there is a significant knowledge gap among the general population about FinTech concepts. A study by EY found that while 64% of digitally active consumers globally use FinTech services, many remain unaware of how to utilize these technologies effectively. 
+ - The World Bank reports that around 1.7 billion adults remain unbanked, highlighting a critical need for financial education to bridge this gap and promote financial inclusion. 
+ - Traditional financial education methods are often inaccessible or ineffective. According to the OECD, only 38% of adults in major economies have basic financial literacy. 
+ - The COVID-19 pandemic accelerated digital financial service adoption, yet many users struggle to understand and trust these services, as reported by McKinsey. 
+ - There is an urgent need for an engaging, interactive, and easily accessible platform that educates people about FinTech, fostering better financial decision-making and inclusion. 
+ - Incorporating AI and data management can enhance learning experiences, providing personalized and efficient educational solutions. 
+ - FinEdge aims to bridge this knowledge gap by offering interactive features, personalized learning paths, real-time assistance, and secure financial tracking, leveraging the latest 
+   technologies to educate users effectively.
 
 ## Solution
 
