@@ -4,7 +4,7 @@ https://youtu.be/NAHbGAfU9Rg
 
 ## Wireframe Link
 
-https://www.figma.com/file/Txk3yykFyfZ7rqB0JXesXB/FinEdge_cod4girls_WireFrameDiag?type=design&node-id=0-1&mode=design&t=ZFrXhOAzVhkJ9dn1-0
+https://www.figma.com/design/YPt3wua48wBDqCSixD5nyd/PowerpuffGirls?node-id=0-1&t=nZ0YWgHnR7DAMhUj-1
 
 ## Problem Statement
 
